@@ -58,6 +58,9 @@ removed the dashes (-) and parentheses () characters.
   subject) from the x files.
 - The units were specified in the website.
 
+** IMPORTANT NOTE: The table below is aligned and looks good as a .md file or when editing in GIT.
+GIT preview is smushing all of the information together.
+
 ID	||	VARIABLE_NAME	             ||	TYPE	   ||	UNITS	  ||	NOTES
 ----||-----------------------------||----------||---------||----------------------------------
 1	  ||	activity	                 ||	character||		      || see activity_labels.txt
