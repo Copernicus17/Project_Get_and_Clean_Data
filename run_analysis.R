@@ -185,7 +185,7 @@ print(dataFiles)  ## print list of the data files
   
 ## write the dataset out   
   write.csv(averagex3, "averagex3.csv")
-  
+  write.table(averagex3, "Avg_by_Subject_and_Activity.txt", row.name=FALSE)
   
   
   
